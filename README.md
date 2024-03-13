@@ -1,1 +1,1 @@
-# Kanini-Connect
+# Kanini-Angular-Poc
